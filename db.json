@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Appple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 500,
+      "comment": "Fresh Apple",
+      "date": "2022-11-07T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 250,
+      "comment": "Fresh ",
+      "date": "2022-11-14T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Chair",
+      "category": "Furniture",
+      "freshness": "Brand New",
+      "price": 70000,
+      "comment": "Brown COlor",
+      "date": "2022-10-17T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Carot",
+      "category": "Veg",
+      "freshness": "Brand New",
+      "price": 30,
+      "comment": "Fresh",
+      "date": "2022-11-08T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "pen",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 10,
+      "comment": "ghj",
+      "date": "2022-11-13T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Box22",
+      "category": "Furniture",
+      "freshness": "Second Hand",
+      "price": 4500,
+      "comment": "nice",
+      "date": "2022-11-22T18:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
